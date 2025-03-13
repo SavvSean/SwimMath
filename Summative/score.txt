@@ -1,0 +1,5 @@
+Names	Scores
+sean	-5
+lorax	10
+cyril   100
+HAHAH   20
